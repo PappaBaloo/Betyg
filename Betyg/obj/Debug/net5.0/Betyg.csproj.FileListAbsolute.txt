@@ -1,0 +1,16 @@
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.csproj.AssemblyReference.cache
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.AssemblyInfoInputs.cache
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.AssemblyInfo.cs
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.csproj.CoreCompileInputs.cache
+C:\Programmering2\anotherOne\Betyg\Betyg\bin\Debug\net5.0\Betyg.exe
+C:\Programmering2\anotherOne\Betyg\Betyg\bin\Debug\net5.0\Betyg.deps.json
+C:\Programmering2\anotherOne\Betyg\Betyg\bin\Debug\net5.0\Betyg.runtimeconfig.json
+C:\Programmering2\anotherOne\Betyg\Betyg\bin\Debug\net5.0\Betyg.runtimeconfig.dev.json
+C:\Programmering2\anotherOne\Betyg\Betyg\bin\Debug\net5.0\Betyg.dll
+C:\Programmering2\anotherOne\Betyg\Betyg\bin\Debug\net5.0\ref\Betyg.dll
+C:\Programmering2\anotherOne\Betyg\Betyg\bin\Debug\net5.0\Betyg.pdb
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.dll
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\ref\Betyg.dll
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.pdb
+C:\Programmering2\anotherOne\Betyg\Betyg\obj\Debug\net5.0\Betyg.genruntimeconfig.cache
